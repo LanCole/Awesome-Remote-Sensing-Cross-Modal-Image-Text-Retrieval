@@ -67,9 +67,11 @@
 
 |Paper|Title|Publication|Affiliation|Code|Note
 |:---:|---|:---:|:---:|:---:|:---:|
+|[ Graph-based Hierarchical Semantic Consistency Alignment Network](https://ieeexplore.ieee.org/abstract/document/11031116)|**Graph-Based Hierarchical Semantic Consistency Network for Remote Sensing Image–Text Retrieval**|JSTARS 2025|Xidian University|-|
 |[ACF](https://www.mdpi.com/2072-4292/17/3/503)|**Remote Sensing Cross-Modal Text-Image Retrieval Based on Attention Correction and Filtering**|Remote Sensing 2025|University of Electronic Science and Technology of China|-|
 |[SWPE](https://ieeexplore.ieee.org/document/10855571)|**Strong and Weak Prompt Engineering for Remote Sensing Image-Text Cross-Modal Retrieval**|JSTARS 2025|Ocean University of China|-|
 |[CPPMN](https://ieeexplore.ieee.org/abstract/document/10855517)|**Cross-Modal Progressive Perspective Matching Network for Remote Sensing Image-Text Retrieval**|TMM 2025|Ocean University of China|-|
+|[RGAL](https://ieeexplore.ieee.org/abstract/document/11072828)|**Relevance-Guided Adaptive Learning for Remote Sensing Image–Text Retrieval**|TGRS 2025|Fuzhou University|-|
 |[CFITR](https://ieeexplore.ieee.org/abstract/document/10747393)|**Toward Efficient and Accurate Remote Sensing Image–Text Retrieval With a Coarse-to-Fine Approach**|GRSL 2024|Beijing Foreign Studies University|[Github](https://github.com/ZhWenQian/CFITR)|
 |[SPCA-Net](https://www.sciencedirect.com/science/article/abs/pii/S0893608024006427)|**Boosting cross-modal retrieval in remote sensing via a novel unified attention network**|Neural Networks 2024|Indian Institute of Technology|-|
 |[PERSVL](https://ieeexplore.ieee.org/abstract/document/10684217)|**Prior-Experience-based Vision-Language Model for Remote Sensing Image-Text Retrieval**|TGRS 2024|Xidian|[Github](https://github.com/TangXu-Group/Cross-modal-remote-sensing-image-and-text-retrieval-models/tree/main/PERSVL)|
@@ -100,6 +102,7 @@
 |[IEFT](https://ieeexplore.ieee.org/abstract/document/10138021)|**Interacting-Enhancing Feature Transformer for Cross-Modal Remote-Sensing Image and Text Retrieval**|TGRS 2023 |Xidian University|[Github](https://github.com/TangXu-Group/Cross-modal-remote-sensing-image-and-text-retrieval-models/tree/main/IEFT)|
 |[-](https://ieeexplore.ieee.org/document/10282896)|**A Texture and Saliency Enhanced Image Learning Method For Cross-Modal Remote Sensing Image-Text Retrieval**|IGARSS 2023 |Xidian University|-|
 |[Multilanguage Transformer ](https://ieeexplore.ieee.org/abstract/document/9925582)|**Multilanguage Transformer for Improved Text to Remote Sensing Image Retrieval**|JSTARS 2022|King Saud University|-|
+|[MSIT](https://ieeexplore.ieee.org/abstract/document/9883252)|**Multi-Scale Interactive Transformer for Remote Sensing Cross-Modal Image-Text Retrieval**|IGARSS 2022|Xidian University|-|
 |[GaLR](https://ieeexplore.ieee.org/document/9745546)|**Remote Sensing Cross-Modal Text-Image Retrieval Based on Global and Local Information**|TGRS 2022|Aerospace Information Research Institute,  Chinese Academy of Sciences|[Github](https://github.com/xiaoyuan1996/GaLR)|
 |[-](https://www.tandfonline.com/doi/abs/10.1080/01431161.2023.2225705)|**Cross-modal retrieval of remote sensing images and text based on self-attention unsupervised deep common feature space**|IJRS 2022|National University of Defense Technology|-|
 |[AMFMN](https://ieeexplore.ieee.org/document/9745546)|**Exploring a Fine-Grained Multiscale Method for Cross-Modal Remote Sensing Image Retrieval**|TGRS 2021|Aerospace Information Research Institute,  Chinese Academy of Sciences|[Github](https://github.com/xiaoyuan1996/GaLR)|
