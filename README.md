@@ -9,7 +9,7 @@
 </div>
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2025.02.28 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2025.08.21 :fire::fire::fire:
 - **2025.08.21**: Update FGVLA.
 - **2025.02.28**: Update SPCA-Net.
 - **2025.02.20**: Update ACF.
