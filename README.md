@@ -10,6 +10,7 @@
 
 ## 📢 Latest Updates
 :fire::fire::fire: Last Updated on 2025.02.28 :fire::fire::fire:
+- **2025.08.21**: Update FGVLA.
 - **2025.02.28**: Update SPCA-Net.
 - **2025.02.20**: Update ACF.
 - **2025.02.19**: Update CPPMN and SWPE.
@@ -67,6 +68,7 @@
 
 |Paper|Title|Publication|Affiliation|Code|Note
 |:---:|---|:---:|:---:|:---:|:---:|
+|[FGVLA](https://ieeexplore.ieee.org/abstract/document/11115092)|**Fine-Grained Visual-Language Alignment for Remote Sensing Image–Text Retrieval**|TGRS 2025|Xidian University|[Github](https://github.com/Ji-Haoyang/FGVLA)|
 |[ Graph-based Hierarchical Semantic Consistency Alignment Network](https://ieeexplore.ieee.org/abstract/document/11031116)|**Graph-Based Hierarchical Semantic Consistency Network for Remote Sensing Image–Text Retrieval**|JSTARS 2025|Xidian University|-|
 |[ACF](https://www.mdpi.com/2072-4292/17/3/503)|**Remote Sensing Cross-Modal Text-Image Retrieval Based on Attention Correction and Filtering**|Remote Sensing 2025|University of Electronic Science and Technology of China|-|
 |[SWPE](https://ieeexplore.ieee.org/document/10855571)|**Strong and Weak Prompt Engineering for Remote Sensing Image-Text Cross-Modal Retrieval**|JSTARS 2025|Ocean University of China|-|
