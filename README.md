@@ -19,6 +19,7 @@
 - **2024.12.24**: Update CFITR.
 - **2024.12.09**: Update CDMAN、MSA、KTIR、CMPAGL、CCLS2T、SARCI、FSISR and SCAT.
 - **2024.12.05**: Update SIRS and HVSA.
+- **2026.01.27**: Update CMER、PGRN and FSSF.
 
 ## Table of Contents
 - **Models**
@@ -68,6 +69,16 @@
 
 |Paper|Title|Publication|Affiliation|Code|Note
 |:---:|---|:---:|:---:|:---:|:---:|
+|[CMER](https://arxiv.org/abs/2501.10638)|**A Resource-Efficient Training Framework for Remote Sensing Text--Image Retrieval**|Arxiv 2025|Chinese Academy of Sciences|[Github](https://github.com/ZhangWeihang99/CMER)|
+
+
+|[PGRN](https://ieeexplore.ieee.org/abstract/document/10945411)|**Prompt-Based Granularity-Unified Representation Network for Remote Sensing Image-Text Matching**|JSTARS 2025|University of Science and Technology of China|[-]()|
+
+
+|[FSSF](https://ieeexplore.ieee.org/abstract/document/10966929)|**Frequency- and Spatial-Domain Saliency Network for Remote Sensing Cross-Modal Retrieval**|TGRS 2025|Ocean University of China|[-]()|
+
+|[EAPA](https://dl.acm.org/doi/epdf/10.1145/3746027.3755374)|**Entity-Level Alignment with Prompt-Guided Adapter for Remote Sensing Image-Text Retrieval**|ACMMM 2025|Xinjiang University|[-]()|
+
 |[FGVLA](https://ieeexplore.ieee.org/abstract/document/11115092)|**Fine-Grained Visual-Language Alignment for Remote Sensing Image–Text Retrieval**|TGRS 2025|Xidian University|[Github](https://github.com/Ji-Haoyang/FGVLA)|
 |[ Graph-based Hierarchical Semantic Consistency Alignment Network](https://ieeexplore.ieee.org/abstract/document/11031116)|**Graph-Based Hierarchical Semantic Consistency Network for Remote Sensing Image–Text Retrieval**|JSTARS 2025|Xidian University|-|
 |[ACF](https://www.mdpi.com/2072-4292/17/3/503)|**Remote Sensing Cross-Modal Text-Image Retrieval Based on Attention Correction and Filtering**|Remote Sensing 2025|University of Electronic Science and Technology of China|-|
