@@ -9,7 +9,8 @@
 </div>
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2025.08.21 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2026.03.01 :fire::fire::fire:
+- **2026.03.01**: Update Review, DCCA.
 - **2025.08.21**: Update FGVLA.
 - **2025.02.28**: Update SPCA-Net.
 - **2025.02.20**: Update ACF.
@@ -39,6 +40,8 @@
 
 |Paper|Title|Publication|Affiliation|Note
 |:---:|---|:---:|:---:|:---:|
+|[Paper](https://ieeexplore.ieee.org/abstract/document/10843094)|**Cross-Modal Retrieval: A Systematic Review of Methods and Future Directions**| Proceedings of the IEEE 2025|Tongji University|
+|[Paper](https://www.mdpi.com/2072-4292/17/24/3995)|**A Review of Cross-Modal Image–Text Retrieval in Remote Sensing**|Remote Sensing 2025|National University of Defense Technology|
 |[Paper](https://www.mdpi.com/2072-4292/17/1/162)|**Advancements in Vision–Language Models for Remote Sensing: Datasets, Capabilities, and Enhancement Techniques**|Remote Sensing 2025|Northwestern Polytechnical University|
 |[Paper](https://arxiv.org/abs/2410.16602)|**Foundation Models for Remote Sensing and Earth Observation: A Survey**|Arxiv 2024|University of Tokyo and the RIKEN Center for Advanced Intelligence Project, Japan|
 |[Paper](https://ieeexplore.ieee.org/abstract/document/10770814)|**When Geoscience Meets Foundation Models: Toward a general geoscience artificial intelligence system**|GRSM 2024|Nanjing University of Aeronautics and Astronautics|
@@ -69,6 +72,9 @@
 
 |Paper|Title|Publication|Affiliation|Code|Note
 |:---:|---|:---:|:---:|:---:|:---:|
+|[DCCA](https://www.mdpi.com/2072-4292/18/4/662)|**Towards Discriminative and Consistent Cross-Modal Alignment for Remote Sensing Image–Text Retrieval**|Remote Sensing 2026|Tongji University|[Github](-)|
+|[RDB](https://www.sciencedirect.com/science/article/abs/pii/S0925231225015875)|**Representation discrepancy bridging method for remote sensing image-text retrieval**|Neurocomputing 2025|Xi’an University of Posts and Telecommunications |[Github](-)|
+|[LoSa](https://ieeexplore.ieee.org/abstract/document/11310837)|**Local Saliency-Guided Dynamic Matching for Cross-Modal Remote Sensing Image–Text Retrieval**|TGRS 2025|Shanghai University of Electric Power|[Github](-)|
 |[CMER](https://arxiv.org/abs/2501.10638)|**A Resource-Efficient Training Framework for Remote Sensing Text--Image Retrieval**|Arxiv 2025|Chinese Academy of Sciences|[Github](https://github.com/ZhangWeihang99/CMER)|
 |[PGRN](https://ieeexplore.ieee.org/abstract/document/10945411)|**Prompt-Based Granularity-Unified Representation Network for Remote Sensing Image-Text Matching**|JSTARS 2025|University of Science and Technology of China|[-]()|
 |[FSSF](https://ieeexplore.ieee.org/abstract/document/10966929)|**Frequency- and Spatial-Domain Saliency Network for Remote Sensing Cross-Modal Retrieval**|TGRS 2025|Ocean University of China|[-]()|
