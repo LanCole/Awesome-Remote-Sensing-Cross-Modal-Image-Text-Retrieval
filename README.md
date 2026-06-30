@@ -151,8 +151,8 @@
 
 ## 问题、反馈和对此存储库的贡献
 
-我欢迎各种反馈，最好通过[GitHub Issues](https://github.com/BaolanChen/Awesome-Remote-Sensing-Cross-Modal-Retrieval/issues) 分享。
-同样，如果您有任何疑问或只是想与他人交流想法，请随时发布这些内容。
+我欢迎各种反馈，推荐通过[GitHub Issues](https://github.com/BaolanChen/Awesome-Remote-Sensing-Cross-Modal-Retrieval/issues) 分享。
+同样，如果您有任何疑问或想与他人交流想法，请随时发布这些内容。
 
 ## 致谢
 感谢相关论文、相关项目
