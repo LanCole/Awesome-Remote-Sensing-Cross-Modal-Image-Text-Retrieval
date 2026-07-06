@@ -164,11 +164,10 @@
 ```bibtex
 @inproceedings{chen2025awesomers,
   title={Awesome-Remote-Sensing-Cross-Modal-Image-Text-Retrieval},
-  author={Chen, Baolan},
+  author={Chen Baolan},
   year         = {2025},
   publisher    = {GitHub},
-  howpublished = {\url{https://github.com/LanCole/Awesome-Remote-Sensing-Cross-Modal-Image-Text-Retrieval}},
-  note         = {Accessed: 2026-06-30}
+  howpublished = {\url{https://github.com/LanCole/Awesome-Remote-Sensing-Cross-Modal-Image-Text-Retrieval}}
 }
 ```
 
